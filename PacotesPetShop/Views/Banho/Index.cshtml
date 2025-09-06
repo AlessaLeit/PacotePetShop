@@ -1,0 +1,27 @@
+﻿@model IEnumerable<BanhoModel>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Cliente</th>
+            <th scope="col">Cachorro</th>
+            <th scope="col">Data Visita</th>
+            <th scope="col">Observações</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model != null)
+        {
+            @foreach (var banho in Model)
+            {
+                <tr>
+                    <th scope="row">@banho.Cliente?.Nome</th>
+                    <td>@banho.Cliente?.Cachorro</td>
+                    <td>@banho.DataVisita.ToShortDateString()</td>
+                    <td>@banho.Observacoes</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

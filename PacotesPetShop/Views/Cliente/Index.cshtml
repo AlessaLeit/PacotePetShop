@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ClienteModel>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Cachorro</th>
+            <th scope="col">Valor</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model != null)
+        {
+            @foreach(var cliente in Model)
+            {
+                <tr>
+                    <th scope="row">@cliente.Nome</th>
+                    <td>@cliente.Cachorro</td>
+                    <td>@cliente.Valor</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
