@@ -169,3 +169,4 @@ C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\refin
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\PacotesPetShop.pdb
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\PacotesPetShop.genruntimeconfig.cache
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\ref\PacotesPetShop.dll
+C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\PacotesPetShop.sourcelink.json

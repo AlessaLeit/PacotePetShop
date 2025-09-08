@@ -19,5 +19,10 @@ namespace PacotesPetShop.Controllers
                 .ToList();
             return View(banhos);
         }
+
+        public IActionResult Cadastrar()
+        {
+            return View();
+        }
     }
 }

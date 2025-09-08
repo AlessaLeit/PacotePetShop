@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["title"] = "Cadastrar Banho";
+}
+<div class="container by-dark p-5 rounded-5">
+
+    <div class="mb-5 text-center">
+        <h2>Cadastrar Banho</h2>
+        <p class="text-secondary">Preencha o formulário abaixo para cadastrar um novo banho.</p>
+    </div>
+
+    <form method="post">
+        <div class="row g-2">
+            <div class="col-md">
+                <div class="mb-3">
+                    <label for="nomeCliente" class="form-label">Nome do Cliente</label>
+                    <input type="text" class="form-control" id="nomeCliente" name="nomeCliente" placeholder="Digite o nome do cliente">
+                </div>
+            </div>
+            <div class="col-md">
+                <div class="mb-3">
+                    <label for="nomeCachorro" class="form-label">Nome do(s) Cachorro(s)</label>
+                    <input type="text" class="form-control" id="nomeCachorro" name="nomeCachorro" placeholder="Digite o nome do(s) cachorro(s)" >
+                </div>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="observacoes" class="form-label">Observações</label>
+            <input type="text" class="form-control" id="observacoes" name="observacoes" placeholder="Digite diretamente: Tosa/Simparic...">
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="dataBanho">Data Banho</label><br>
+            <input type="date" class="form-input" id="dataBanho" name="dataBanho">
+        </div>
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </form>
+
+</div>
