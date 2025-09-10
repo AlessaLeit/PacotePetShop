@@ -162,7 +162,6 @@ C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\stati
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\PacotesP.BE7D5FBE.Up2Date
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\PacotesPetShop.dll
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\refint\PacotesPetShop.dll
@@ -170,3 +169,4 @@ C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\Pacot
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\PacotesPetShop.genruntimeconfig.cache
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\ref\PacotesPetShop.dll
 C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\PacotesPetShop.sourcelink.json
+C:\Users\Aless\source\repos\PacotesPetShop\PacotesPetShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
